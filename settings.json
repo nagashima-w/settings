@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Abyss",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
+    "terminal.integrated.splitCwd": "initial",
+    "terminal.integrated.cursorBlinking": true,
+    "files.eol": "\n",
+    "editor.snippetSuggestions": "top",
+    "editor.minimap.showSlider": "always",
+    "vim.highlightedyank.enable": true,
+    "vim.useSystemClipboard": true,
+    "vim.visualstar": true,
+    "vim.foldfix": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "all",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
